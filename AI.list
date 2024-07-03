@@ -3,4 +3,5 @@ USER-AGENT,perplexity
 DOMAIN,www.perplexity.ai
 DOMAIN-SUFFIX,pplx-next-static-public.perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,claude.ai
