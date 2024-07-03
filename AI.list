@@ -1,6 +1,4 @@
 # NAME: AI
 DOMAIN,www.perplexity.ai
-DOMAIN-SUFFIX,www.perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,ingest.us.sentry.io
 DOMAIN-SUFFIX,claude.ai
