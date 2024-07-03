@@ -1,3 +1,5 @@
 # NAME: AI
 DOMAIN,pplx-next-static-public.perplexity.ai
 DOMAIN,www.perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,claude.ai
