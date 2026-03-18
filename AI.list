@@ -13,6 +13,12 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
+# Cursor
+DOMAIN-SUFFIX,cursor.com,Proxy
+DOMAIN-SUFFIX,cursor.sh,Proxy
+DOMAIN-SUFFIX,cursor-cdn.com,Proxy
+DOMAIN-SUFFIX,cursorapi.com,Proxy
+
 # Gemini
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN,ai.google.dev
