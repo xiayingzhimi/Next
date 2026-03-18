@@ -1,4 +1,4 @@
-#低端
+# 低端
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,ddys.art
 DOMAIN-SUFFIX,ddys.info
@@ -6,12 +6,12 @@ DOMAIN-SUFFIX,ddys.tv
 DOMAIN-SUFFIX,ddys.mov
 DOMAIN-SUFFIX,ddrk.me
 
-#影巢
+# 影巢
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,hdhive.corg
 DOMAIN-SUFFIX,hdhive.online
 
-#黄色
+# 黄色
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-KEYWORD,jable
 DOMAIN-SUFFIX,missav.com
@@ -39,7 +39,7 @@ DOMAIN-KEYWORD,javlog
 DOMAIN-KEYWORD,moocdn
 DOMAIN-SUFFIX,javmoo.com
 
-#盗版影视
+# 盗版影视
 DOMAIN-SUFFIX,v1.ax
 DOMAIN-SUFFIX,notion-api.splitbee.io
 DOMAIN-SUFFIX,olevod.com
