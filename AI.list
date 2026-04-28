@@ -10,8 +10,11 @@ DOMAIN-KEYWORD,perplexity
 
 # Claude
 DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,support.claude.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
 
 # Cursor
 DOMAIN-SUFFIX,cursor.com,Proxy
