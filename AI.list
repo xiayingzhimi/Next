@@ -11,8 +11,16 @@ DOMAIN-KEYWORD,perplexity
 # Claude
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,support.claude.com
+DOMAIN-SUFFIX,docs.claude.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,anthropic.sh
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 
