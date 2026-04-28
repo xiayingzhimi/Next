@@ -12,10 +12,10 @@ DOMAIN-KEYWORD,perplexity
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,support.claude.com
 DOMAIN-SUFFIX,docs.claude.com
-DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,anthropic.sh
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,sentry.io
