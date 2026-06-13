@@ -57,3 +57,10 @@ DOMAIN-SUFFIX,shortconn.im.qcloud.com
 DOMAIN-SUFFIX,cdn.futustatic.com
 DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com
+
+# NAME: laohu
+DOMAIN-KEYWORD,skytigris
+DOMAIN-KEYWORD,laohu
+DOMAIN-KEYWORD,tigrwd
+DOMAIN-KEYWORD,tradeup
+DOMAIN-KEYWORD,itigerup
