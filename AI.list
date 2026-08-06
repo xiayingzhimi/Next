@@ -25,10 +25,10 @@ DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 
 # Cursor
-DOMAIN-SUFFIX,cursor.com,Proxy
-DOMAIN-SUFFIX,cursor.sh,Proxy
-DOMAIN-SUFFIX,cursor-cdn.com,Proxy
-DOMAIN-SUFFIX,cursorapi.com,Proxy
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorapi.com
 
 # Gemini
 DOMAIN-SUFFIX,aistudio.google.com
