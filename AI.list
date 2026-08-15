@@ -3,62 +3,108 @@
 # Perplexity
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
-DOMAIN-SUFFIX,pplx-next-static-public.perplexity.ai
 DOMAIN-KEYWORD,perplexity
 
-# Claude
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,support.claude.com
-DOMAIN-SUFFIX,docs.claude.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN-SUFFIX,anthropic.sh
+# Anthropic/Claude
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudepages.dev
+DOMAIN-SUFFIX,claudestudio.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,cdn.usefathom.com
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR6,2607:6bc0::/32,no-resolve
+
+# Anthropic / Third-Party
+DOMAIN,anthropic-com.ghost.io
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN,cdn.growthbook.io
+DOMAIN,cdn.usefathom.com
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,storage.googleapis.com
+DOMAIN-SUFFIX,anthropic.team
+DOMAIN-SUFFIX,chatbotclaude.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-KEYWORD,claude
-DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,interface.feedback
+DOMAIN-SUFFIX,lcicat.org
+DOMAIN-SUFFIX,lcicollections.org
+DOMAIN-SUFFIX,mcpservertest.online
+DOMAIN-SUFFIX,muthos.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sillylittleguy.org
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,sentry
+DOMAIN-KEYWORD,sift
 
 # Cursor
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursorvm.com
+DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,cursorapi.com
+PROCESS-NAME,Cursor
+PROCESS-NAME,Cursor.app
+PROCESS-NAME,cursor
 
-# Gemini
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN,ai.google.dev
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,opal.google
-DOMAIN-SUFFIX,labs.google
-DOMAIN-SUFFIX,jules.google
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-DOMAIN-SUFFIX,aida.googleapis.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,jules.google.com
-DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,nanobanana.ai
-DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
+# Grok / xAI
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
+
+# Poe
+DOMAIN-SUFFIX,poe.com
+
+# Mistral
+DOMAIN-SUFFIX,mistral.ai
+
+# OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
+
+# Groq
+DOMAIN-SUFFIX,groq.com
+
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+
+# Windsurf / Devin
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,devin.ai
+
+# Midjourney
+DOMAIN-SUFFIX,midjourney.com
+
+# Runway
+DOMAIN-SUFFIX,runway.com
+DOMAIN-SUFFIX,runwayml.com
+
+# Ideogram
+DOMAIN-SUFFIX,ideogram.ai
+
+# Leonardo AI
+DOMAIN-SUFFIX,leonardo.ai
+
+# Replicate
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,replicateassets.com
+DOMAIN-SUFFIX,replicate.delivery
 
 # 特朗普
 DOMAIN-SUFFIX,truthsocial.com
