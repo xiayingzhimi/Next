@@ -1,6 +1,7 @@
 # NAME: vod
 
-# 低端
+# 低端影视
+DOMAIN-SUFFIX,ddys.io
 DOMAIN-SUFFIX,ddys.pro
 DOMAIN-SUFFIX,ddys.art
 DOMAIN-SUFFIX,ddys.info
@@ -10,12 +11,15 @@ DOMAIN-SUFFIX,ddrk.me
 
 # 影巢
 DOMAIN-SUFFIX,hdhive.com
+DOMAIN-SUFFIX,hdhive.org
 DOMAIN-SUFFIX,hdhive.online
 
 # 霓虹
 DOMAIN-SUFFIX,jable.tv
+DOMAIN-KEYWORD,jable
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,missav.ai
+DOMAIN-KEYWORD,missav
 DOMAIN-SUFFIX,chotto.moe
 DOMAIN-SUFFIX,m3u8.club
 DOMAIN-KEYWORD,netflav
@@ -23,51 +27,74 @@ DOMAIN-KEYWORD,supjav
 DOMAIN-KEYWORD,njav
 DOMAIN-KEYWORD,javmix
 DOMAIN-SUFFIX,thisav.com
+DOMAIN-KEYWORD,thisav
 DOMAIN-KEYWORD,avgle
+DOMAIN-KEYWORD,javbus
 DOMAIN-KEYWORD,buscdn
 DOMAIN-KEYWORD,javcdn
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,javbus.me
+DOMAIN-KEYWORD,javmoo
 DOMAIN-KEYWORD,javlog
 DOMAIN-KEYWORD,moocdn
 DOMAIN-SUFFIX,javmoo.com
 DOMAIN-SUFFIX,pigav.com
+DOMAIN-KEYWORD,pigav
 DOMAIN-SUFFIX,rou.video
 DOMAIN-KEYWORD,rouvideo
 DOMAIN-SUFFIX,hanime1.me
+DOMAIN-KEYWORD,hanime1
 DOMAIN-SUFFIX,hpjav.tv
+DOMAIN-KEYWORD,hpjav
 DOMAIN-SUFFIX,cableav.tv
+DOMAIN-KEYWORD,cableav
 DOMAIN-SUFFIX,avple.video
+DOMAIN-KEYWORD,avple
 DOMAIN-SUFFIX,dsxys.com
+DOMAIN-KEYWORD,dsxys
 DOMAIN-SUFFIX,avtb.cc
+DOMAIN-KEYWORD,avtb
 
 # 国产
 DOMAIN-SUFFIX,91porn.com
+DOMAIN-KEYWORD,91porn
 DOMAIN-SUFFIX,t66y.com
+DOMAIN-KEYWORD,t66y
 DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,sehuatang.org
+DOMAIN-KEYWORD,sehuatang
 DOMAIN-KEYWORD,madou
 DOMAIN-SUFFIX,51cg.fun
+DOMAIN-SUFFIX,51cg1.com
+DOMAIN-KEYWORD,51cg
 DOMAIN-SUFFIX,hjd2048.com
+DOMAIN-KEYWORD,hjd2048
+DOMAIN-KEYWORD,tangxin
 DOMAIN-SUFFIX,tangxin.tv
+DOMAIN-KEYWORD,guodong
 DOMAIN-SUFFIX,guodong.tv
 DOMAIN-KEYWORD,tianmei
 DOMAIN-KEYWORD,xingkong
 DOMAIN-KEYWORD,mitao
 DOMAIN-KEYWORD,yaojing
 DOMAIN-KEYWORD,tanhua
+DOMAIN-KEYWORD,maomi
 DOMAIN-SUFFIX,maomi.app
 DOMAIN-KEYWORD,aidou
 DOMAIN-SUFFIX,hsex.tv
 DOMAIN-SUFFIX,hsex.com
+DOMAIN-KEYWORD,hsex
 DOMAIN-SUFFIX,91md.me
+DOMAIN-KEYWORD,91md
 DOMAIN-SUFFIX,mdtv.me
+DOMAIN-KEYWORD,mdtv
 DOMAIN-SUFFIX,91p01.com
 DOMAIN-SUFFIX,91short.com
+DOMAIN-KEYWORD,91short
 DOMAIN-SUFFIX,xlm.tv
 DOMAIN-KEYWORD,xlmtv
 
-# 盗版影视
+# 影视聚合
 DOMAIN-SUFFIX,v1.ax
 DOMAIN,notion-api.splitbee.io
 DOMAIN-SUFFIX,olevod.com
@@ -91,6 +118,7 @@ DOMAIN-SUFFIX,cloudblank.vip
 DOMAIN-SUFFIX,etcbbf.xyz
 
 # 观影
+# 挂了.com,楚门的世界.com,泰坦尼克号.com,教父.com,阿甘正传.com,星际穿越.com,盗梦空间.com,黑客帝国.com,肖申克的救赎.com
 DOMAIN-SUFFIX,xn--ykq321c.com
 DOMAIN-SUFFIX,xn--rhqp87dfoiv9a830g.com
 DOMAIN-SUFFIX,xn--74qy8dk4drvg29x.com
