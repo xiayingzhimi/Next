@@ -14,9 +14,7 @@ DOMAIN-SUFFIX,hdhive.com
 DOMAIN-SUFFIX,hdhive.org
 DOMAIN-SUFFIX,hdhive.online
 
-# 霓虹
-
-# 常用站点及镜像
+# 霓虹常用站点及镜像
 DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,netflav
@@ -36,7 +34,7 @@ DOMAIN-KEYWORD,avple
 DOMAIN-KEYWORD,dsxys
 DOMAIN-KEYWORD,avtb
 
-# CDN及播放资源
+# 霓虹CDN及播放资源
 DOMAIN-KEYWORD,buscdn
 DOMAIN-KEYWORD,javcdn
 DOMAIN-KEYWORD,moocdn
@@ -45,7 +43,7 @@ DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,chotto.moe
 DOMAIN-SUFFIX,m3u8.club
 
-# JAVDB及静态资源
+# 霓虹JAVDB及静态资源
 DOMAIN-KEYWORD,javdb
 DOMAIN-SUFFIX,jav.app
 DOMAIN-SUFFIX,jdbimgs.com
@@ -68,9 +66,7 @@ DOMAIN-SUFFIX,justav.net
 DOMAIN-SUFFIX,hkporn.net
 DOMAIN-SUFFIX,twporn.net
 
-# 国产
-
-# 常用站点及镜像
+# 国产常用站点及镜像
 DOMAIN-KEYWORD,91porn
 DOMAIN-KEYWORD,t66y
 DOMAIN-KEYWORD,sehuatang
@@ -93,25 +89,19 @@ DOMAIN-KEYWORD,mdtv
 DOMAIN-KEYWORD,91short
 DOMAIN-KEYWORD,xlmtv
 
-# 精确域名
+# 国产精确域名
 DOMAIN-SUFFIX,91p01.com
 DOMAIN-SUFFIX,51cg1.com
 DOMAIN-SUFFIX,
 DOMAIN-SUFFIX,xlm.tv
-
-# SWAG
 DOMAIN-SUFFIX,swag.live
 DOMAIN-SUFFIX,swag-live.co
 DOMAIN-SUFFIX,5w.ag
-
-# JKF及JVID
 DOMAIN-SUFFIX,jkf.net
 DOMAIN-SUFFIX,jkface.net
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,jr24h.com
 DOMAIN-SUFFIX,jvid.com
-
-# 54647
 DOMAIN-SUFFIX,54647.global
 DOMAIN-SUFFIX,54647.io
 DOMAIN-SUFFIX,54647.online
