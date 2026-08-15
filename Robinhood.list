@@ -1,10 +1,12 @@
 # NAME: Robinhood
 
+# Robinhood 核心服务
 DOMAIN-SUFFIX,robinhood.com
-DOMAIN,api.robinhood.com
-DOMAIN,nummus.robinhood.com
 DOMAIN-SUFFIX,rbnhd.com
-DOMAIN-SUFFIX,robinhood.org
-DOMAIN-SUFFIX,plaid.com
-DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,rbnhd.co
+
+# 股东投票及投资者沟通
 DOMAIN-SUFFIX,saytechnologies.com
+
+# 银行账户绑定
+DOMAIN-SUFFIX,plaid.com
